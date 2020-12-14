@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, 👋🏻
+#### I'm `Vivek Singh`
+##### BTech Student ( Computer Engineering ) | Web Developer | Programmer ( C++ )
 
-<!--
-**vivek-30/vivek-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning differnt web technologies and also learning to contritube to open source
+- 👯 I’m looking to collaborate with other developers
+- ⚡ Fun fact: Other than developement I am also fond of Workout 💪🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages and Technologies
+
+```CSS
+React,JavaScript,Monogodb,MySQL,NodeJs,
+
+Express,Python,C,C++,Java,WebSockets,
+
+HTML,CSS,MaterialCss,JQuery,Git and more...
+```
