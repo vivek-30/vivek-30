@@ -13,9 +13,9 @@
 ### Languages and Technologies
 
 ```CSS
-React,JavaScript,Monogodb,MySQL,NodeJs,
+React,JavaScript,Monogodb,MySQL,MapBox,NodeJs,
 
-Express,Python,C,C++,Java,WebSockets,
+Express,Python,C,C++,Java,WebSockets,HTML,
 
-HTML,CSS,MaterialCss,JQuery,Git and more...
+CSS,MaterialCSS,JQuery,Git and more...
 ```
