@@ -17,5 +17,5 @@ React,JavaScript,Monogodb,MySQL,MapBox,NodeJs,
 
 Express,Python,C,C++,Java,WebSockets,HTML,
 
-CSS,MaterialCSS,JQuery,Git and more...
+CSS,Materialize CSS,JQuery,Git and more...
 ```
