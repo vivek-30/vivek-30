@@ -12,10 +12,19 @@
 
 ### Languages and Technologies
 
-```CSS
-React,JavaScript,Monogodb,MySQL,MapBox,NodeJs,
+```bash
 
-Express,Python,C,C++,Java,WebSockets,HTML,
+Library / Frameworks - React, NodeJS, Express, Redux, JQuery,
 
-CSS,Materialize CSS,JQuery,Git and more...
+                    ReactQuery, WebSockets (socket.io).
+
+Languages - JavaScript, C, C++, Java, Python, HTML, CSS.
+
+Database - MongoDB, MySQL.
+
+Others - Materialize CSS, BootStrap, MapBox, Selenium, PWA.
+
+Testing - MochaJS, JEST.
+
 ```
+
