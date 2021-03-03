@@ -4,13 +4,13 @@
 
 ---
 
-- 🌱 I’m currently learning differnt web technologies and also learning to contritube to open source
-- 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact: Other than developement I am also fond of Workout 💪🏻
+- 🌱 I’m currently learning differnt web technologies and also learning to contritube to open source.
+- 👯 I’m looking to collaborate with other developers.
+- ⚡ Fun fact: Other than developement I am also fond of Workout. 💪🏻
 
 ---
 
-### Languages and Technologies
+### Languages and Technologies -
 
 ```bash
 
@@ -27,4 +27,5 @@ Others - Materialize CSS, BootStrap, MapBox, Selenium, PWA.
 Testing - MochaJS, JEST.
 
 ```
-
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek-30&show_icons=true&theme=cobalt&hide=stars&custom_title=Github-Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-30&layout=compact&theme=cobalt)
