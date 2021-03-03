@@ -27,5 +27,3 @@ Others - Materialize CSS, BootStrap, MapBox, Selenium, PWA.
 Testing - MochaJS, JEST.
 
 ```
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek-30&show_icons=true&theme=cobalt&hide=stars&custom_title=Github-Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-30&layout=compact&theme=cobalt)
