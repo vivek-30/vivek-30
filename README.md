@@ -15,5 +15,5 @@
 
 ### Languages && FrameWorks:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,redux,express,mongodb,nodejs" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,redux,sass,js,cpp,express,mongodb,nodejs" />
 </p>
